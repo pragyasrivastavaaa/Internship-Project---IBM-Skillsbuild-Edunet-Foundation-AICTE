@@ -128,17 +128,17 @@ Results of the Deployed ML model
 
 📁 Repository Contents
 
- ─ Pragya Srivastava_Project-39_Predictive Maintenance of Industrial Machinery .pptx (4).pdf ← Main Project Report File
+ ─ Pragya Srivastava_Project-39_Predictive Maintenance of Industrial Machinery .pptx (4).pdf : The final project presentation pdf submitted for evaluation.
 
-─ Executed Problem statement No.39 – Predictive Maintenance of Industrial Machinery jupyter notebook_pragya srivastava.ipynb & Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb(Unexecuted or without api key)---Jupyter Notebooks 
+─ Executed Problem statement No.39 – Predictive Maintenance of Industrial Machinery jupyter notebook_pragya srivastava.ipynb & Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb(Unexecuted or without api key) : Jupyter Notebooks 
 
-─ Problem statement No.39 – Predictive Maintenance.pdf-Problem statement given in the pdf i.e SB4Academia_Problem Statements_2025.pdf 
+─ Problem statement No.39 – Predictive Maintenance.pdf : Problem statement given in the pdf i.e SB4Academia_Problem Statements_2025.pdf 
 
-─ IBM Completion Certificates (Getting Started with AI, Journey to Cloud, RAG Lab,Ethical Consideration,Introduction to Retrieval Augumented Generation)
+─ IBM Completion Certificates : (Getting Started with AI, Journey to Cloud, RAG Lab,Ethical Consideration,Introduction to Retrieval Augumented Generation)
 
-─ Other course project files--AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb & pdf file
+─ Other course project files : AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb & pdf file for results and execution
 
-─ Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf---Step by step procedure pdf 
+─ Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf : Step by step procedure pdf 
 
 ─ README.md :This file
 
