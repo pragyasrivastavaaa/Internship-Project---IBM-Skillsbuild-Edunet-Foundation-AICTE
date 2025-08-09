@@ -159,9 +159,9 @@ Results of the Deployed ML model
 
 ─ IBM Completion Certificates : (Getting Started with AI, Journey to Cloud, RAG Lab,Ethical Consideration,Introduction to Retrieval Augumented Generation)
 
-─ Other course project files : AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb & pdf file for results and execution
-
 ─ Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf : Step by step procedure pdf 
+
+─ Other course project files : AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb & pdf file for results and execution
 
 ─ README.md :This file
 
