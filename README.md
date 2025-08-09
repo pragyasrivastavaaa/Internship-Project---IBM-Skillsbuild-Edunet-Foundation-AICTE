@@ -125,16 +125,46 @@ Results of the Deployed ML model
 
 
 📁 Repository Contents
-├── Pragya Srivastava_Project-39_Predictive Maintenance of Industrial Machinery .pptx (4).pdf ← Main Project Report File
+Main Project Report
 
-├── Executed Problem statement No.39 – Predictive Maintenance of Industrial Machinery jupyter notebook_pragya srivastava.ipynb & Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb(Unexecuted or without api key)---Jupyter Notebooks 
+Pragya Srivastava_Project-39_Predictive Maintenance of Industrial Machinery .pptx (4).pdf – Main project report file
 
-├── Problem statement No.39 – Predictive Maintenance.pdf-Problem statement given in the pdf i.e SB4Academia_Problem Statements_2025.pdf 
+Jupyter Notebooks
 
-├── IBM Completion Certificates (Getting Started with AI, Journey to Cloud, RAG Lab,Ethical Consideration,Introduction to Retrieval Augumented Generation)
+Executed Problem statement No.39 – Predictive Maintenance of Industrial Machinery jupyter notebook_pragya srivastava.ipynb – Executed notebook with results
 
-├── Other course project files--AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb & pdf file
+Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb – Unexecuted notebook (without API key)
 
-├── Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf---Step by step procedure pdf 
+Problem Statement
 
-└── README.md
+Problem statement No.39 – Predictive Maintenance.pdf – Problem statement file
+
+SB4Academia_Problem Statements_2025.pdf – Official problem statement document
+
+IBM Completion Certificates
+
+Getting Started with AI
+
+Journey to Cloud
+
+RAG Lab
+
+Ethical Consideration
+
+Introduction to Retrieval Augmented Generation
+
+Other Course Project Files
+
+AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb – Jupyter Notebook
+
+AI Agent PDF file
+
+Step-by-Step Guide
+
+Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf – Detailed procedure document
+
+README File
+
+README.md – Repository description and project details
+
+
