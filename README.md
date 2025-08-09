@@ -6,30 +6,31 @@ This repository documents the capstone project completed during the IBM SkillsBu
 The program is a collaborative initiative by the Edunet Foundation, AICTE, and IBM SkillsBuild.
 
 The internship aimed to provide hands-on experience in emerging technologies, enhancing employability and confidence by solving real-world challenges using the IBM SkillsBuild and IBM Cloud platforms.
-
+ 
 📝 Table of Contents
-Intern Details
+ -Intern Details
 
-About the Internship
+ -About the Internship
 
-Project: Predictive Maintenance of Industrial Machinery
+ -Project: Predictive Maintenance of Industrial Machinery
 
-Problem Statement
+ -Problem Statement
 
-Solution Overview
+ -Solution Overview
 
-⚙️ Technology Stack
+ -⚙️ Technology Stack
 
-🚀 Project Workflow
+ -🚀 Project Workflow
 
-📊 Results
+ -📊 Results
 
-📁 Repository Contents
+ -📁 Repository Contents
+
 
 👩‍💻 Intern Details
-Name: Pragya Srivastava
-Institute: Delhi Technical Campus – Computer Science and Engineering (CSE)
-Duration: 4 Weeks (15th July 2025 to 7th August 2025)
+ -Name: Pragya Srivastava
+ -Institute: Delhi Technical Campus – Computer Science and Engineering (CSE)
+ -Duration: 4 Weeks (15th July 2025 to 7th August 2025)
 
 📖 About the Internship
 This 4-week program provided practical skills in AI and Cloud Computing. It was structured with weekly virtual sessions, mentor guidance, and hands-on labs.
@@ -60,58 +61,59 @@ The challenge was to predict failures in advance using real-time sensor data to 
 Solution Overview
 An end-to-end machine learning solution was developed to classify different types of machinery failures such as:
 
-Tool Wear Failure
+-Tool Wear Failure
 
-Overstrain Failure
+-Overstrain Failure
 
-Power Failure
+-Power Failure
 
-No Failure
+-No Failure
 
 Key features:
 
-Data Source: Kaggle Predictive Maintenance Classification dataset
+-Data Source: Kaggle Predictive Maintenance Classification dataset
 
-Approach: Data cleaning, feature engineering, model training with AutoAI
+-Approach: Data cleaning, feature engineering, model training with AutoAI
 
-Best Model: Snap Random Forest Classifier with 99.5% accuracy
+-Best Model: Snap Random Forest Classifier with 99.5% accuracy
 
-Deployment: IBM Watson Studio on IBM Cloud Lite as a REST API for real-time predictions
+-Deployment: IBM Watson Studio on IBM Cloud Lite as a REST API for real-time predictions
 
 ⚙️ Technology Stack
-Cloud Platform: IBM Cloud Lite
+-Cloud Platform: IBM Cloud Lite
 
-AI/ML Tools: IBM Watson Studio, IBM AutoAI
+-AI/ML Tools: IBM Watson Studio, IBM AutoAI
 
 Languages & Libraries:
 
-Python
+-Python
 
-pandas, numpy, scikit-learn, matplotlib, seaborn
+-pandas, numpy, scikit-learn, matplotlib, seaborn
 
-xgboost, tensorflow/keras (optional)
+-xgboost, tensorflow/keras (optional)
 
-ibm-watson-machine-learning, ibm-cos-sdk
+-ibm-watson-machine-learning, ibm-cos-sdk
 
 🚀 Project Workflow
-Data Ingestion: Loaded Kaggle dataset into IBM Watson Studio
+-Data Ingestion: Loaded Kaggle dataset into IBM Watson Studio
 
-Preprocessing: Handled missing values, normalized data, engineered relevant features
+-Preprocessing: Handled missing values, normalized data, engineered relevant features
 
-Model Building: Ran AutoAI to train and rank models; Random Forest selected as the best pipeline
+-Model Building: Ran AutoAI to train and rank models; Random Forest selected as the best pipeline
 
-Evaluation: Achieved 99.5% accuracy, validated with Precision, Recall, F1-Score
+-Evaluation: Achieved 99.5% accuracy, validated with Precision, Recall, F1-Score
 
-Deployment: Deployed as an online web service on IBM Cloud Lite
+-Deployment: Deployed as an online web service on IBM Cloud Lite
 
-Testing: API endpoint tested with sample inputs, confirming real-time classification
+-Testing: API endpoint tested with sample inputs, confirming real-time classification
 
 📊 Results
-Accuracy: 99.5%
+-Accuracy: 99.5%
 
-Confidence Levels: 96–100% across all predictions
+-Confidence Levels: 96–100% across all predictions
 
-Outcome: Reliable multiclass classification for predictive maintenance, enabling early intervention and cost savings
+-Outcome: Reliable multiclass classification for predictive maintenance, enabling early intervention and cost savings
+
 Relationship Map with pipeline leaderboard
 <img width="1352" height="652" alt="image" src="https://github.com/user-attachments/assets/733543f1-f418-4711-b188-69ce1b155113" />
 Pipeline leaderboard with Progress Map
@@ -125,70 +127,19 @@ Results of the Deployed ML model
 
 
 📁 Repository Contents
-Main Project Report
 
+ ─ Pragya Srivastava_Project-39_Predictive Maintenance of Industrial Machinery .pptx (4).pdf ← Main Project Report File
 
-Pragya Srivastava_Project-39_Predictive Maintenance of Industrial Machinery .pptx (4).pdf – Main project report file
+─ Executed Problem statement No.39 – Predictive Maintenance of Industrial Machinery jupyter notebook_pragya srivastava.ipynb & Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb(Unexecuted or without api key)---Jupyter Notebooks 
 
+─ Problem statement No.39 – Predictive Maintenance.pdf-Problem statement given in the pdf i.e SB4Academia_Problem Statements_2025.pdf 
 
-Jupyter Notebooks
+─ IBM Completion Certificates (Getting Started with AI, Journey to Cloud, RAG Lab,Ethical Consideration,Introduction to Retrieval Augumented Generation)
 
+─ Other course project files--AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb & pdf file
 
-Executed Problem statement No.39 – Predictive Maintenance of Industrial Machinery jupyter notebook_pragya srivastava.ipynb – Executed notebook with results
+─ Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf---Step by step procedure pdf 
 
-
-Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb – Unexecuted notebook (without API key)
-
-
-Problem Statement
-
-
-Problem statement No.39 – Predictive Maintenance.pdf – Problem statement file
-
-
-SB4Academia_Problem Statements_2025.pdf – Official problem statement document
-
-
-IBM Completion Certificates
-
-
-Getting Started with AI
-
-
-Journey to Cloud
-
-
-RAG Lab
-
-
-Ethical Consideration
-
-
-Introduction to Retrieval Augmented Generation
-
-
-Other Course Project Files
-
-
-AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb – Jupyter Notebook
-
-
-AI Agent PDF file
-
-
-Step-by-Step Guide
-
-
-Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf – Detailed procedure document
-
-
-README File
-
-
-README.md – Repository description and project details
-
-README File
-
-README.md – Repository description and project details
+─ README.md :This file
 
 
