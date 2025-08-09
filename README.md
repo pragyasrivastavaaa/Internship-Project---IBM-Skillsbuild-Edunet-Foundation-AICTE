@@ -127,41 +127,65 @@ Results of the Deployed ML model
 📁 Repository Contents
 Main Project Report
 
+
 Pragya Srivastava_Project-39_Predictive Maintenance of Industrial Machinery .pptx (4).pdf – Main project report file
+
 
 Jupyter Notebooks
 
+
 Executed Problem statement No.39 – Predictive Maintenance of Industrial Machinery jupyter notebook_pragya srivastava.ipynb – Executed notebook with results
+
 
 Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb – Unexecuted notebook (without API key)
 
+
 Problem Statement
+
 
 Problem statement No.39 – Predictive Maintenance.pdf – Problem statement file
 
+
 SB4Academia_Problem Statements_2025.pdf – Official problem statement document
+
 
 IBM Completion Certificates
 
+
 Getting Started with AI
+
 
 Journey to Cloud
 
+
 RAG Lab
+
 
 Ethical Consideration
 
+
 Introduction to Retrieval Augmented Generation
+
 
 Other Course Project Files
 
+
 AI_Agent_for_Digital_Financial_Literacy_pragya.ipynb – Jupyter Notebook
+
 
 AI Agent PDF file
 
+
 Step-by-Step Guide
 
+
 Pragya Srivastava 39 – Predictive Maintenance of Industrial Machinery Step by step procedure.pdf – Detailed procedure document
+
+
+README File
+
+
+README.md – Repository description and project details
 
 README File
 
