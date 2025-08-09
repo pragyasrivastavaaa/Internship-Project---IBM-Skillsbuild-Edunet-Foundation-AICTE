@@ -159,7 +159,7 @@ Results of the Deployed ML model
      
      -Problem statement No.39 – Predictive Maintenance of Industrial Machinery_pragya.ipynb (Unexecuted or without api key) 
 
-─ Problem statement No.39 – Predictive Maintenance.pdf : Problem statement given in the pdf i.e SB4Academia_Problem Statements_2025.pdf 
+─ Problem statement No.39 – Predictive Maintenance.pdf : Selected Problem statement from the given pdf i.e SB4Academia_Problem Statements_2025.pdf 
 
 ─ IBM Completion Certificates : (Getting Started with AI, Journey to Cloud, RAG Lab,Ethical Consideration,Introduction to Retrieval Augumented Generation)
 
