@@ -27,6 +27,9 @@ The internship aimed to provide hands-on experience in emerging technologies, en
  -📁 Repository Contents
 
 
+
+
+
 👩‍💻 Intern Details
 
  -Name: Pragya Srivastava
@@ -34,6 +37,8 @@ The internship aimed to provide hands-on experience in emerging technologies, en
  -Institute: Delhi Technical Campus – Computer Science and Engineering (CSE)
  
  -Duration: 4 Weeks (15th July 2025 to 7th August 2025)
+
+
 
 
 📖 About the Internship
@@ -58,14 +63,16 @@ Completion Requirements:
 
 This internship was offered with no stipend.
 
+
+
 💡 Project Number 39 : Predictive Maintenance of Industrial Machinery
 
-Problem Statement
+--Problem Statement
 
 Unexpected failures in industrial machinery cause costly downtime and impact productivity.
 The challenge was to predict failures in advance using real-time sensor data to enable proactive maintenance.
 
-Solution Overview
+--Solution Overview
 
 An end-to-end machine learning solution was developed to classify different types of machinery failures such as:
 
@@ -89,6 +96,7 @@ Key features:
 -Deployment: IBM Watson Studio on IBM Cloud Lite as a REST API for real-time predictions
 
 
+
 ⚙️ Technology Stack
 -Cloud Platform: IBM Cloud Lite
 
@@ -104,6 +112,8 @@ Languages & Libraries:
 
 -ibm-watson-machine-learning, ibm-cos-sdk
 
+
+
 🚀 Project Workflow
 
 -Data Ingestion: Loaded Kaggle dataset into IBM Watson Studio
@@ -117,6 +127,8 @@ Languages & Libraries:
 -Deployment: Deployed as an online web service on IBM Cloud Lite
 
 -Testing: API endpoint tested with sample inputs, confirming real-time classification
+
+
 
 📊 Results
 -Accuracy: 99.5%
