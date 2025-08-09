@@ -28,37 +28,45 @@ The internship aimed to provide hands-on experience in emerging technologies, en
 
 
 👩‍💻 Intern Details
+
  -Name: Pragya Srivastava
+ 
  -Institute: Delhi Technical Campus – Computer Science and Engineering (CSE)
+ 
  -Duration: 4 Weeks (15th July 2025 to 7th August 2025)
 
+
 📖 About the Internship
+
 This 4-week program provided practical skills in AI and Cloud Computing. It was structured with weekly virtual sessions, mentor guidance, and hands-on labs.
 
 Curriculum Highlights:
 
-Week 1: Orientation, IBM Cloud Registration, Introduction to Artificial Intelligence
+-Week 1: Orientation, IBM Cloud Registration, Introduction to Artificial Intelligence
 
-Week 2: Data Analytics concepts, Hands-On Labs, Cloud EDA
+-Week 2: Data Analytics concepts, Hands-On Labs, Cloud EDA
 
-Week 3 & 4: Building AI/ML models on IBM Cloud, AutoAI experiments, Model deployment
+-Week 3 & 4: Building AI/ML models on IBM Cloud, AutoAI experiments, Model deployment
 
 Completion Requirements:
 
-Active participation in sessions
+-Active participation in sessions
 
-Completion of at least two IBM SkillsBuild courses
+-Completion of at least two IBM SkillsBuild courses
 
-Submission of a final project presentation
+-Submission of a final project presentation
 
 This internship was offered with no stipend.
 
-💡 Project: Predictive Maintenance of Industrial Machinery
+💡 Project Number 39 : Predictive Maintenance of Industrial Machinery
+
 Problem Statement
+
 Unexpected failures in industrial machinery cause costly downtime and impact productivity.
 The challenge was to predict failures in advance using real-time sensor data to enable proactive maintenance.
 
 Solution Overview
+
 An end-to-end machine learning solution was developed to classify different types of machinery failures such as:
 
 -Tool Wear Failure
@@ -69,6 +77,7 @@ An end-to-end machine learning solution was developed to classify different type
 
 -No Failure
 
+
 Key features:
 
 -Data Source: Kaggle Predictive Maintenance Classification dataset
@@ -78,6 +87,7 @@ Key features:
 -Best Model: Snap Random Forest Classifier with 99.5% accuracy
 
 -Deployment: IBM Watson Studio on IBM Cloud Lite as a REST API for real-time predictions
+
 
 ⚙️ Technology Stack
 -Cloud Platform: IBM Cloud Lite
@@ -95,6 +105,7 @@ Languages & Libraries:
 -ibm-watson-machine-learning, ibm-cos-sdk
 
 🚀 Project Workflow
+
 -Data Ingestion: Loaded Kaggle dataset into IBM Watson Studio
 
 -Preprocessing: Handled missing values, normalized data, engineered relevant features
